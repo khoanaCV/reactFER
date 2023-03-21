@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Vua hải tặc",
+        "genres": {
+            "id": 4,
+            "name": "Hoạt hình"
+        }
+    },
+    
+    {
+        "id": 2,
+        "name": "Về nhà đi con",
+        "genres": {
+            "id": 2,
+            "name": "Tình cảm"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Blind Sword",
+        "genres": {
+            "id": 1,
+            "name": "Hành động"
+        }
+    },
+    {
+        "id": 4,
+        "name": "The Conjuring",
+        "genres": {
+            "id": 3,
+            "name": "Kinh dị"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Big Hero 6",
+        "genres": {
+            "id": 5,
+            "name": "Khoa học-Nghệ thuật"
+        }
+    }
+]
